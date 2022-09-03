@@ -35,7 +35,7 @@ module.exports = async ({ getNamedAccounts, deployments, getChainId }) => {
     waitConfirmations: blockConfirmations || 1,
   });
 
-  log(`BuildGuildCadets deployed at ${speedBuilds.address}`);
+  log(`SpeedBuilds deployed at ${speedBuilds.address}`);
   try {
     if (!developmentChains.includes(network.name)) {
       log("Verifying on etherscan....");

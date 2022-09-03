@@ -52,14 +52,16 @@ function Home({
     if (priceContract) {
       setPrice(priceContract);
     }
-  }, [priceContract]);
 
-  useEffect(() => {
     if (totalSupply){
       const nftsupply = parseInt(totalSupply._hex, 16);
       console.log(nftsupply);
       setSupply(nftsupply);
     }
+  }, [priceContract, totalSupply]);
+
+  useEffect(() => {
+  
   }, [totalSupply]);
 
 
@@ -137,7 +139,7 @@ function Home({
        VIEW COLLECTION <BiLinkExternal  style={{ marginLeft: 5}} />
         
           </a>
-          <div>Total Supply: {supply > 0 ? 0 : supply} of 1000</div>
+          <div>Total Supply: {supply > 0 ? supply : 0} of 1000</div>
           </div>
         ) : (
           <div></div>
