@@ -26,7 +26,7 @@ contract SpeedBuilds is ERC721Enumerable {
 
 
     address payable constant buildGuild =
-        payable(0x97843608a00e2bbc75ab0C1911387E002565DEDE);
+        payable(0x031B6ae3597db9E046E2d44685563EdB2a4b60C2);
     address immutable i_owner;
 
 
