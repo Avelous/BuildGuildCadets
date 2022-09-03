@@ -8,12 +8,13 @@ You could take it to be a representation of completion of buidlguidl's challenge
 
 Nfts React to Change in ETH price. Daylight for an increase in price and nighttime for a decrease. Price data is gotten from chainlink data feeds. Color attributes are also randomized on-chain. Go mint one 😏 The fee goes to BuidlGuidl 
 
+![Screenshot_316](https://user-images.githubusercontent.com/86206128/188285194-8a8ed507-7011-4819-a03a-bc6cca9d1435.png)
 
 **Live Site**: http://speedbuilds.avel.surge.sh/
 
 **Chain**: Abitrum Mainnet
 
-**BuidlGuidl**: [https://buidlguidl.com/build/h33ayzbZq6LjpuX0DfxM](https://buidlguidl.com/build/h33ayzbZq6LjpuX0DfxM)
+**BuidlGuidl**: [https://buidlguidl.com/build/PhLNPBgNpanaerHsLdDm](https://buidlguidl.com/build/PhLNPBgNpanaerHsLdDm)
 
 **Contract**: [https://arbiscan.io/address/0x9F76F513843eD64b9c45F8f7F2cD41ca753a4F58](https://arbiscan.io/address/0x9F76F513843eD64b9c45F8f7F2cD41ca753a4F58)
 
